@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="SCIENCES ECONOMIQUES ET GESTION"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:layout_marginBottom="16dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Nos étudiants bénéficient d’un parcours d’étude varié et d’un socle de connaissances élaboré de plus en plus adapté aux besoins du marché du travail. La mission d’enseignement est assurée par une équipe d’enseignants dynamiques et motivés. Cette formation permet aux jeunes de travailler dans les domaines de la gestion industrielle et de la logistique (Gestion de production, Gestion de projet, Gestion de la Qualité, Gestion de la maintenance…) et dans le domaine de la comptabilité et de la finance. Cette formation offre aux étudiants les bases méthodologiques et instrumentales qui leur permettront d’évoluer et d’occuper des postes dans Les Petites et Moyennes Entreprises(PME)/Petites et Moyennes Industries (PMI) ainsi que dans les grands groupes."
+            android:layout_marginBottom="16dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Responsable : Zeineb ABDELATIF"
+            android:layout_marginBottom="8dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Courriel : zeineb_abdellatif@yahoo.fr"
+            android:layout_marginBottom="8dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Téléphone :  98 58 14 26"
+            android:layout_marginBottom="16dp"/>
+
+
+
+    </LinearLayout>
+</ScrollView>

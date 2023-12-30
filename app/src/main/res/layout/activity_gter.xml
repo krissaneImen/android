@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="GÉNIE THERMIQUE ET ENERGIES RENOUVELABLES"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="16dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=" La Licence Appliquée en Génie Thermique et Energie Renouvelable est une formation spécialisée permet de répondre aux besoins de la société moderne et du comité local en thermique et énergies renouvelables.
+ C’est une formation qui s’appuie sur les enseignements généraux (Mathématique, Informatique, Physique, Chimie, Mécanique générale et Electricité …) et sur les enseignements de spécialité (Thermique, Machines thermiques et frigorifiques, Automatique, Electronique de puissance, Mécanique des fluides, énergies solaires, énergies éolienne, hydroélectrique, cogénération, trigénération et efficacité énergétique, …)."
+        android:layout_marginBottom="16dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Responsable : Jehider Hejer"
+        android:layout_marginBottom="8dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Courriel : jehiderhejer@yahoo.fr"
+        android:layout_marginBottom="8dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Téléphone :  50 70 01 86"
+        android:layout_marginBottom="16dp"/>
+
+
+
+</LinearLayout>
+</ScrollView>

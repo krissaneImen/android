@@ -1,0 +1,21 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+        android:title="Login information">
+
+        <EditTextPreference
+            android:key="email"
+            android:title="Email Adresse"
+            android:summary="Please enter your Email" />
+
+        <EditTextPreference
+            android:key="password"
+            android:title="Password"
+            android:summary="Enter your password"
+            android:inputType="textPassword" />
+
+        <Preference
+            android:key="btnlogin"
+            android:title="Log in" />
+
+    </PreferenceCategory>
+</PreferenceScreen>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="GÉNIE MÉCANIQUE"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="16dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Le département de génie mécanique a pour mission d'assurer une formation complète et de qualité prouvée par la compétitivité de ses diplômés. Cette formation est dispensée par une équipe scientifique et pédagogique de haute qualité, aux compétences variées. Comme toute licence appliquée, la formation en génie mécanique offre une solide formation théorique et pratique. L'ISET de Tataouine dispose d'une cinquantaine de machines haut de gamme et variées, permettant une formation complète visant l'employabilité des diplômés et répondant aux besoins en compétences du marché de travail local et national. Nos techniciens en mécanique œuvrent dans plusieurs secteurs de l’industrie tels que l’énergie, les transports, la fabrication, le génie conseil et l’innovation technologique."
+        android:layout_marginBottom="16dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Responsable : GUEMRI Ahmed"
+        android:layout_marginBottom="8dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Courriel : ahmed.guemri@yahoo.fr"
+        android:layout_marginBottom="8dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Téléphone : 53 94 26 14"
+        android:layout_marginBottom="16dp"/>
+
+
+
+</LinearLayout>
+</ScrollView>

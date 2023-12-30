@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="TECHNOLOGIES DE L'INFORMATIQUE"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:layout_marginBottom="16dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Le département informatique au sein de l' ISET de Tataouine propose une formation complète. Au-delà des compétences techniques, cette formation scientifique et technique prépare l’étudiant au marché du travail à travers de nombreux cours, développant des capacités importantes au regard des réalités du monde de l’entreprise. En effet, les métiers de l’informatique ont évolué et se sont diversifiés. Les diplômés ont besoin de maîtriser les bases techniques et fondamentales des différents aspects de l’informatique pour concevoir, mettre en œuvre et exploiter des systèmes informatiques. Nos diplômés font preuve d'une compétence et discipline assez élevé et leurs présence dans plusieurs sociétés et entreprises est une témoignage de la haute qualité des enseignements présentés par l'équipe scientifique. Aujourd'hui même, certains de nos diplômés sont des doctorants et membres de cet équipe scientifique et c'est après avoir obtenir leurs mastères au près d'autres établissements tunisiennes."
+            android:layout_marginBottom="16dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Responsable : Tlahig Sawsen"
+            android:layout_marginBottom="8dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Courriel : sawsen.tlahig@gmail.com"
+            android:layout_marginBottom="8dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Téléphone :  26 05 98 48"
+            android:layout_marginBottom="16dp"/>
+
+
+
+    </LinearLayout>
+</ScrollView>
